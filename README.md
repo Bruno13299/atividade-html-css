@@ -1,2 +1,2 @@
 # atividade-html-css
-este é meu primeiro projeto
+atividade prática de HTML e CSS 
